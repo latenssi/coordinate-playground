@@ -1,0 +1,9 @@
+{
+  "name": "coordinate-playground",
+  "version": "0.0.0",
+  "main": "server.js",
+  "repository": "",
+  "dependencies": {
+    "wgs84-util": "^3.0.0"
+  }
+}
